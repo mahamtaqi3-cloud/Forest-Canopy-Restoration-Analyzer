@@ -1,4 +1,4 @@
-# Forest Canopy Restoration Analyzer
+# Forest Canopy Restoration Analsis
 
 An end-to-end remote sensing project designed to monitor forest canopy health and identify priority zones for ecological restoration using satellite imagery.
 
