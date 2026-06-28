@@ -24,9 +24,6 @@ This project leverages satellite data to calculate the **Normalized Difference V
 
 
 
-## 📈 Visual Analysis
-
-*(Once you have saved your map as `restoration_map.png`, upload it to your GitHub repository and uncomment the line below)*
 
 ## 💡 How to Use
 
